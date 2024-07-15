@@ -18,7 +18,7 @@ Instal library yang diperlukan:
 pip install -r requirements.txt
 ```
 
-## Jalankan Server Buku API
+## Jalankan Server API Buku
 ```
 fastapi dev app/main.py
 ```
