@@ -10,7 +10,7 @@ Proyek ini dibuat untuk memenuhi tugas besar 2 yang diberikan
 ## Instalasi
 Clone repository ini:
 ```
-git clone
+git clone https://github.com/rhfnx/tugas_besar_2_pemrograman_lanjut
 ```
 
 Instal library yang diperlukan:
