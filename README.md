@@ -4,7 +4,7 @@
 
 ## Overview
 <p aling="justify">
-Proyek ini dibuat untuk memenuhi tugas besar 2 yang diberikan
+Proyek ini dibuat untuk memenuhi tugas besar 2 yang telah diberikan dari matakuliah Pemrograman Lanjut
 </p>
 
 ## Instalasi
